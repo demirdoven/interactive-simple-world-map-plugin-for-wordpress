@@ -1,4 +1,4 @@
-## Interactive-Simple-Word-Map-Plugin-for-WordPress ##
+## Interactive-Simple-World-Map-Plugin-for-WordPress ##
 
 It allows you to create interactive world map with colors and to show the map with a shortcode.
 Based upon http://joncom.be/code/excanvas-world-map/
